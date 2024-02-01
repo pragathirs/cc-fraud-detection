@@ -1,1 +1,1 @@
-# cc-fraud-detection
+# Python Jupyternotebook for Credit Card Fraud Detection
